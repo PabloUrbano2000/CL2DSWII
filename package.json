@@ -4,7 +4,7 @@
   "description": "cl2",
   "main": "public/index.html",
   "scripts": {
-    "build" : "put build command here",
+    "build" : "parcel build public/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pablo Urbano <pablojamiro2008@hotmail.com>",
