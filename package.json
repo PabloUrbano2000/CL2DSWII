@@ -4,11 +4,9 @@
   "description": "cl2",
   "main": "public/index.html",
   "scripts": {
+    "build" : "put build command here",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pablo Urbano <pablojamiro2008@hotmail.com>",
-  "license": "ISC",
-  "dependencies": {
-    "npm": "^7.16.0"
-  }
+  "license": "ISC"
 }
