@@ -2,10 +2,13 @@
   "name": "cl2urbanodswii",
   "version": "1.0.0",
   "description": "cl2",
-  "main": "index.html",
+  "main": "public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pablo Urbano <pablojamiro2008@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^7.16.0"
+  }
 }
